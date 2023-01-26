@@ -1,11 +1,13 @@
-<code>🎓 “Igor Sikorsky Kyiv Polytechnic Institute” (KPI) student / **3rd**</code>
 
-<code>🖥 Programming languages: **Java(Java 8, Core, Collections, Stream API)**, TypeScript, Kotlin</code>
+🎓 “Igor Sikorsky Kyiv Polytechnic Institute” (KPI) student / **3rd**
 
-<code>🚀 Technology stack: **Spring Framework**, **Spring MVC**, **Spring Data JPA**, PostgreSQL, Angular, Node.js</code>
+🖥 Programming languages: **Swift**, Java, Kotlin, TypeScript
 
-<code>🛎 LinkedIn: [_vadimkononenko_](https://www.linkedin.com/in/vadim-kononenko-b31476229/)</code>
+🚀 Technology stack:
+    **UIKit, SnapKit, CoreData**, Spring Framework, Spring MVC, Spring Data JPA, PostgreSQL, Angular, Node.js
 
-<code>📞 Telegram: _@weast_</code>
+🛎 LinkedIn: [_vadimkononenko_](https://www.linkedin.com/in/vadim-kononenko-b31476229/)
 
-<code>🧲 Email: _vadiskon@gmail.com_</code>
+📞 Telegram: _@weast_
+
+🧲 Email: _vadiskon@gmail.com_
