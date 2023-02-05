@@ -4,7 +4,7 @@
 🖥 Programming languages: **Swift**, Java, Kotlin, TypeScript
 
 🚀 Technology stack:
-    **UIKit, SnapKit, CoreData**, Spring Framework, Spring MVC, Spring Data JPA, PostgreSQL, Angular, Node.js
+    **UIKit, SnapKit, Core Data, Core Animation, Alamofire, SwiftUI(🤏)**, Spring Framework, Spring MVC, Spring Data JPA, PostgreSQL, Angular, Node.js
 
 🛎 LinkedIn: [_vadimkononenko_](https://www.linkedin.com/in/vadim-kononenko-b31476229/)
 
