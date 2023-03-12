@@ -1,10 +1,10 @@
 
 🎓 “Igor Sikorsky Kyiv Polytechnic Institute” (KPI) student / **3rd**
 
-🖥 Programming languages: **Swift**, Java, Kotlin, TypeScript
+🖥 Programming languages: **Swift**, Java
 
 🚀 Technology stack:
-    **UIKit, SnapKit, Core Data, Core Animation, Alamofire, SwiftUI(🤏)**, Spring Framework, Spring MVC, Spring Data JPA, PostgreSQL, Angular, Node.js
+    **UIKit, SnapKit**, Spring Framework, Spring Data JPA, PostgreSQL, Node.js
 
 🛎 LinkedIn: [_vadimkononenko_](https://www.linkedin.com/in/vadim-kononenko-b31476229/)
 
