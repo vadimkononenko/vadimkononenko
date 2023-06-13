@@ -4,7 +4,7 @@
 🖥 Programming languages: **Swift**, Java
 
 🚀 Technology stack:
-    **UIKit, SnapKit**, Spring Framework, Spring Data JPA, PostgreSQL, Node.js
+    **UIKit**, SnapKit
 
 🛎 LinkedIn: [_vadimkononenko_](https://www.linkedin.com/in/vadim-kononenko-b31476229/)
 
