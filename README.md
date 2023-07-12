@@ -1,5 +1,5 @@
 
-🎓 “Igor Sikorsky Kyiv Polytechnic Institute” (KPI) student / **4rd**
+🎓 “Igor Sikorsky Kyiv Polytechnic Institute” (KPI) student / **4th**
 
 🖥 Programming languages: Swift, Java
 
